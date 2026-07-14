@@ -1,0 +1,42 @@
+/*
+<!-- Heath Fluent, July 13 2026 -->
+declaration block::after
+
+Selector{
+    property:value;
+    property2:value;
+}
+*/
+
+body{
+    background-color: #b31a1a;
+    color:rgb(254, 245, 68);
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 20px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#memeImage{
+    margin-right: 200px;
+    width: 400px;
+}
+
+Homepage{
+    margin-right: 200px;
+    width: 400px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
